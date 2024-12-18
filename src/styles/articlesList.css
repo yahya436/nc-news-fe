@@ -1,0 +1,33 @@
+.articles-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1rem;
+    padding: 1rem;
+  }
+  
+  .article-card {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1rem;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .article-card img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .article-title {
+    font-size: 1.2rem;
+    margin: 0.5rem 0;
+  }
+  
+  .article-author, .article-topic, .article-votes {
+    font-size: 0.9rem;
+    color: #555;
+  }
+  
