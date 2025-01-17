@@ -1,6 +1,6 @@
 Project Overview
 
-This project is part of the Northcoders Bootcamp and showcases a front-end application for a news website. The app retrieves data from a back-end API to display news articles, with features that allow users to filter by topic and sort the content. This project demonstrates skills in working with front-end technologies, including React, JavaScript, and CSS, along with utilising an external API to manage dynamic content.
+This project is part of the Northcoders Bootcamp and showcases a front-end application for a news website. The app retrieves data from a back-end API to display news articles. This project demonstrates skills in working with front-end technologies, including React, JavaScript, and CSS, along with utilising an external API to manage dynamic content.
 
 Setup Instructions
 To run this project locally, follow these steps:
